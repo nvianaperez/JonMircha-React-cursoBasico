@@ -5,7 +5,8 @@ import "./App.css";
 // import CicloVida from "./componentes/CicloVida";
 // import AjaxApis from "./componentes/AjaxApis";
 // import ContadorHooks from "./componentes/ContadorHooks";
-import ScrollHooks from "./componentes/ScrollHooks";
+// import ScrollHooks from "./componentes/ScrollHooks";
+import RelojHooks from "./componentes/RelojHooks";
 
 function App() {
   // let nombre = "Nuria";
@@ -24,8 +25,10 @@ function App() {
         {/* <AjaxApis /> */}
         {/* <hr />
         <ContadorHooks titulo="Seguidores" /> */}
+        {/* <hr />
+        <ScrollHooks /> */}
         <hr />
-        <ScrollHooks />
+        <RelojHooks />
       </header>
     </div>
   );
